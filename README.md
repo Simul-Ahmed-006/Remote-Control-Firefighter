@@ -23,9 +23,7 @@ This project is a fire-fighting robot that can be controlled using a Bluetooth c
 4. The robot will move according to the commands and use the servo motor to aim the water pump at detected fires.
 
 ## Contributors:
-- [Your Name]: [GitHub Profile](https://github.com/yourgithubusername)
+- [Simul Ahmed]: [GitHub Profile]([https://github.com/yourgithubusername](https://github.com/Simul-Ahmed-006/))
 
-## License:
-This project is open-source and available under the [MIT License](LICENSE).
 
 Feel free to contribute or use this project for your own purposes.
